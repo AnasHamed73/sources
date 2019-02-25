@@ -1,0 +1,3 @@
+import Classes
+
+inst = TheClass()

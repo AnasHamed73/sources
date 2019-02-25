@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="swap_units_button_text">Swap Units</string>
+    <string name="clear_button_text">Clear</string>
+</resources>
